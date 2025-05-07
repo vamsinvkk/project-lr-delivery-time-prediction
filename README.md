@@ -1,2 +1,2 @@
 # project-lr-delivery-time-prediction
-Linear Regression Assignment
+Linear Regression Assignment - Delivery time Prediction
